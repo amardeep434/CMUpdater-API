@@ -2,8 +2,10 @@
  "id": null,
  "result": [
     {
-    "url": "http://qc3.androidfilehost.com/dl/OIj_QaqWhhpfjdGLfJ30mA/1447301649/24269982086989681/cm-12.1-UR3R3V1V3D-RX.zip&task=get",
+    "url": "https://www.androidfilehost.com/?fid=24269982086989681&task=get",
+    "timestamp": "1446836224",
     "api_level": "23",
+    "md5sum": "e2c510b901c45b8eb4593212a7b21248",
     "filename": "cm-12.1-UR3R3V1V3D-RX.zip",
     "channel": "SNAPSHOT",
     "changes": "",
