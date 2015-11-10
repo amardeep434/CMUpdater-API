@@ -6,7 +6,7 @@
     "api_level": "23",
     "md5sum": "fe09b62f14219ffc8c7dcb7ae030a06f",
     "filename": "cm-12.1-UnityROM-3.3.zip",
-    "channel": "NIGHTLY",
+    "channel": "SNAPSHOT",
     "changes": "",
     "incremental": ""
     },
@@ -22,7 +22,7 @@
     "api_level": "23",
     "md5sum": "93c9020a9c4795f18be382668134e1af",
     "filename": "cm-12.1-UnityROM-3.3.1.zip",
-    "channel": "NIGHTLY",
+    "channel": "SNAPSHOT",
     "changes": "",
     "incremental": ""
     },
