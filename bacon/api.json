@@ -6,24 +6,7 @@
     "timestamp": "1446836226",
     "api_level": "23",
     "md5sum": "93c9020a9c4795f18be382668134e1af",
-    "filename": "cm-12.1-UnityROM-3.3.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-  ],
- "error": null
-}
-
-{
- "id": null,
- "result": [
-    {
-    "url": "http://qc3.androidfilehost.com/dl/l_rlRMZY44QgeCX1Qiwbsg/1447312184/24269982086989682/UnityROM-3-Gapps-3.2.zip&task=get",
-    "timestamp": "1446836229",
-    "api_level": "23",
-    "md5sum": "1e2ae1a3998a20633cd4026c16765427",
-    "filename": "UnityROM-3-Gapps-3.2.zip",
+    "filename": "UnityROM-3.3.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
