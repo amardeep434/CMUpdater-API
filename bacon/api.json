@@ -14,19 +14,4 @@
   ],
  "error": null
 }
-{
- "id": null,
- "result": [
-    {
-    "url": "https://az1.androidfilehost.com/dl/tT1tc78ATj6bSekZSgZVMA/1447332359/24269982086989681/cm-12.1-UR3R3V1V3D-RX.zip&task=get",
-    "timestamp": "1447149419",
-    "api_level": "23",
-    "md5sum": "b0ef38fbd04f1c2ddbd4f5485613c849",
-    "filename": "cm-12.1-UR3R3V1V3D-RX.zip",
-    "channel": "NIGHTLY",
-    "changes": " ",
-    "incremental": "f03fe4dd8a"
-    },
-  ],
- "error": null
-}
+
