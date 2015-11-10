@@ -2,27 +2,10 @@
  "id": null,
  "result": [
     {
-    "url": "https://fl1.androidfilehost.com/dl/7M8eUtLjK4BWD-b8W-ARqg/1447310124/24269982086992439/cm-12.1-UnityROM-3.3.1.zip&task=get",
+    "url": "http://tx1.androidfilehost.com/dl/rAFfa1FDXP-LX6KpRt2xhA/1447311609/24269982086992450/cm-12.1-UnityROM-3.3.zip&task=get",
     "timestamp": "1446836226",
     "api_level": "23",
     "md5sum": "93c9020a9c4795f18be382668134e1af",
-    "filename": "cm-12.1-UnityROM-3.3.1.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-  ],
- "error": null
-}
-
-{
- "id": null,
- "result": [
-    {
-    "url": "http://tx1.androidfilehost.com/dl/MFzZzRcvbxjt_uARz0jCwA/1447310641/24269982086992413/cm-12.1-UnityROM-3.3.zip&task=get",
-    "timestamp": "1446836224",
-    "api_level": "23",
-    "md5sum": "fe09b62f14219ffc8c7dcb7ae030a06f",
     "filename": "cm-12.1-UnityROM-3.3.zip",
     "channel": "NIGHTLY",
     "changes": "",
