@@ -6,7 +6,7 @@
     "timestamp": "1447149421",
     "api_level": "23",
     "md5sum": "47c6e610f9da5fe07782ede1867e1e48",
-    "filename": "UnityROM-3.4.zip",
+    "filename": "cm-UnityROM-3.3.zip",
     "channel": "NIGHTLY",
     "changes": " ",
     "incremental": "f03fe4dd8a"
@@ -18,11 +18,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://fl1.androidfilehost.com/dl/_AllPrEp6W8mperxyIzl_A/1447328280/24269982086992610/UnityROM-3.3.zip&task=get",
+    "url": "https://az1.androidfilehost.com/dl/tT1tc78ATj6bSekZSgZVMA/1447332359/24269982086989681/cm-12.1-UR3R3V1V3D-RX.zip&task=get",
     "timestamp": "1447149420",
     "api_level": "23",
-    "md5sum": "47c6e610f9da5fe07782ede1867e1e48",
-    "filename": "UnityROM-3.3.zip",
+    "md5sum": "b0ef38fbd04f1c2ddbd4f5485613c849",
+    "filename": "cm-12.1-UR3R3V1V3D-RX.zip",
     "channel": "NIGHTLY",
     "changes": " ",
     "incremental": "f03fe4dd8a"
