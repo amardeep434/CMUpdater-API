@@ -14,19 +14,3 @@
   ],
  "error": null
 }
-{
- "id": null,
- "result": [
-    {
-    "url": "http://qc4.androidfilehost.com/dl/tqOiZyzUeLf7DZ_5B8P0_Q/1448237945/24269982087000932/cm-UnityROM-3.6.zip&task=get",
-    "timestamp": "1448056698",
-    "api_level": "23",
-    "md5sum": "36313acddbbbc6f7f49979fa3bbd9ddc",
-    "filename": "cm-UnityROM-3.6.zip",
-    "channel": "SNAPSHOT",
-    "changes": " ",
-    "incremental": "967023f1b8"
-    },
-  ],
- "error": null
-}
