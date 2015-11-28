@@ -2,7 +2,7 @@ UnityROM Changelog:
 
 Version 4.4:
 
-Set Selinus status to Permissive.
+Set Selinux status to Permissive.
 Hopefully addad this changelog to UR Updater.
 
 Version 4.3:
