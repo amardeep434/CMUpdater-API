@@ -1,0 +1,100 @@
+UnityROM Changelog:
+
+Version 4.3:
+
+Removed AOSP Messenger
+Added VLC, Truecaller (Play Store), & TrueMessenger.
+
+Version 4.2:
+
+Re-added Screencast & GalleryNext.
+Removed AOSP Camera, Gallery & Browser.
+Added Oppo Cam & Plugins & Firefox.
+
+Version 4.1:
+
+Enabled lz4 in device and kernel.
+Synced GH Sources.
+Re-added MaxxAudio (wonky, but functional)
+Disabled Software CRCs 30% Boost.
+
+Version 4.0:
+
+Initial UnityROM-4 release.
+[Note: Not all UR3 changes have been applied yet. Building up the kernel slowly lol.]
+Changed CM Source to cm-13.0 finally .
+Upgraded to Oracle JDK 8.
+Full UBERTC 5.2/6.0 Compilation now as well. thanks @Karel VH
+Modified CM Updater as per UR3 for OTA updating. (Warning: Dirty UR3 => UR4 upgrades may cause unknown issues, do so at your own risk.)
+
+Version 3.6:
+
+Synced up all sources.
+Merged new cm commits to oppo common & and kernel.
+Added extra COS permissions to etc/permissions, just for safety with COS apps.
+
+Version 3.5:
+
+Switched OTA Release Channel to SNAPSHOT.
+Added a bunch of fixes and optimizations to the Kernel ( I mean like over 50 new commits ).
+Added a bunch of CPU governors, and I/O Schedulers.
+Added MultiROM support (I think)
+
+Version 3.4: Added MaxxAudio back in .
+Added COS Theme Engine in finally .
+Corrected vendor_cm stuff to help with OTA updating.
+
+Version 3.3:
+Some system optimizations.
+Some more kernel optimizations.
+OTA Updating Added via CMUpdater ( thanks @Sultanxda )
+
+Version 3.2-RX:
+Fixed build.
+Fixed Github sources.
+Removed MaxxAudio.
+Added Cortex A-15 Optimizations to Kernel
+
+Version 3.2-R6.2:
+Switched to cm-12.1 branch.
+Updated Linux Kernel Version - 3.4.67 => 3.4.110.
+A few kernel optimizations.
+Kernel build fixes.
+Better Kernel power management (hopefully).
+AnyApp Screen off Gestures.
+CM-12.1 Compass Fix.
+MaxxAudio File Adjustment.
+Removed COS Theme Engine (too buggy).
+
+Version 3.2-R4:
+Upgraded to Uber GCC 4.8 & 5.2 cortex-a15 Toolchains.
+Enabled Uber GCC 6.0 (kernel)
+Fixed CM_BUILDTYPE typo.
+Kernel Optimizations
+Better GSM & LTE (Thanks to sultanxda )
+Fixed Github sources. (Now directly buildable using the ReadMe in Guides-Scripts )
+
+
+Version 3.1-R3:
+Reverted to GCC 4.8
+Added DEX_PREOPT := true to all apps now as well. So fully odexed (besides the COS apps I have to manually add in).
+Removed Compass Fix for now.
+Fixed Google Play Services FC'ing
+
+Version 3.1-R2:
+Upgraded to GCC 4.9 (System & Kernel)
+DEX_PREOPT := true
+No more .dat files in ROM.zip, reverted to using a system directory like CM-11.0.
+Merged in COS Apps.
+
+Version 3.1:
+Initial release. First port of UnityROM-2 (jewel) sources.
+
+Divided the system & kernel compilers
+Removed Java version checks.
+Switched to Oracle JDK-7 instead of OpenJDK-7.
+Changed default sounds to Cyan~.ogg versions because it seems more suitable than the original AOSP default sounds.
+Changed "CyanogenMod version" to "Cyanogen OS version" to better pair with UnityROM-3 Gapps.
+Changed CM_BUILDTYPE to "UR3R3V1V3D".
+Changed Kernel Version from "-cyanogenmod" to "-URKernel-3.1".
+Added/Changed to -O3 to System and Kernel CFlags.
