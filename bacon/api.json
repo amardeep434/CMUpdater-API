@@ -2,13 +2,13 @@
  "id": null,
  "result": [
     {
-    "url": "http://ca1.androidfilehost.com/dl/hZEvGtJYUc4P9Scej78fvA/1448867354/24269982087006233/cm-UnityROM-4.3-20151127.zip&task=get",
+    "url": "https://fl1.androidfilehost.com/dl/KXPkR2Vy21lpuFJhrEoRSQ/1448872211/24269982087006233/cm-UnityROM-4.3-20151127.zip&task=get",
     "timestamp": "1448609699",
     "api_level": "23",
     "md5sum": "fdf9f0311a47617182bf86e7cd80f7ab",
-    "filename": "cm-UnityROM-4.2-20151127.zip",
+    "filename": "cm-UnityROM-4.3-20151127.zip",
     "channel": "SNAPSHOT",
-    "changes": " ",
+    "changes": "Added VLC, Treucaller & TrueMessenger. Removed AOSP Messenger",
     "incremental": "7273d44777"
     },
   ],
