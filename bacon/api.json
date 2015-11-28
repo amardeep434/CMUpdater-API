@@ -2,14 +2,14 @@
  "id": null,
  "result": [
     {
-    "url": "https://fl1.androidfilehost.com/dl/eohN-gwAmKY2aMOxlIz8jQ/1448847147/24269982087006128/cm-UnityROM-4.2-20151127.zip&task=get",
-    "timestamp": "1448609698",
+    "url": "http://ca1.androidfilehost.com/dl/hZEvGtJYUc4P9Scej78fvA/1448867354/24269982087006233/cm-UnityROM-4.3-20151127.zip&task=get",
+    "timestamp": "1448609699",
     "api_level": "23",
-    "md5sum": "72facdf3325b939ac10bff944c3038d3",
+    "md5sum": "fdf9f0311a47617182bf86e7cd80f7ab",
     "filename": "cm-UnityROM-4.2-20151127.zip",
     "channel": "SNAPSHOT",
     "changes": " ",
-    "incremental": "7273d44776"
+    "incremental": "7273d44777"
     },
   ],
  "error": null
