@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "",
-    "timestamp": "",
+    "url": "https://qc3.androidfilehost.com/dl/1aZWK6L_9YObcUmvBuiMIQ/1479545096/529152257862681886/cm-14.1-20161116-UNOFFICIAL-bacon.zip",
+    "timestamp": "1479300107",
     "api_level": "25",
-    "md5sum": "",
-    "filename": "",
+    "md5sum": "daa6d378c85bca0391b97e73ca397627",
+    "filename": "cm-14.1-20161116-UNOFFICIAL-bacon.zip",
     "channel": "NIGHTLY",
     "changes": " ",
     "incremental": ""
